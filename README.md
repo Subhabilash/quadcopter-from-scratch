@@ -60,7 +60,7 @@ A fully functional quadcopter drone built from scratch using Arduino Nano, NRF24
 
 ## 💾 Code
 
-- `Transmitter_Code/`: Arduino code for RC controller
+- `transmitter.ino`: Arduino code for RC controller
 - `Drone_Code/`: Arduino code for flight controller
 - Includes calibration, NRF communication, sensor filtering
 
