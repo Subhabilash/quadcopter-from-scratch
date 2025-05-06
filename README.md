@@ -18,7 +18,7 @@ A fully functional quadcopter drone built from scratch using Arduino Nano, NRF24
 ### RC final_transmitter  back picture
 ![RC final_transmitter  back picture](Transmitter_final_prototype_back.jpg)
 ### Watch the successful flight Video
-[Watch the successful flight Video2]([Flight_video2.mp4](https://lnkd.in/dVTs-ih5))
+[Watch the successful flight Video2](https://lnkd.in/dVTs-ih5)
 
 ---
 
