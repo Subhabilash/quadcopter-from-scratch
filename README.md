@@ -7,10 +7,10 @@ A 100% self-built quadcopter drone powered by Arduino and NRF24L01 wireless modu
 A fully functional quadcopter drone built from scratch using Arduino Nano, NRF24L01 wireless modules, and custom-built transmitter. This was a solo project developed over two years of self-learning, heavily inspired by [Electronoobs Drone Series](http://electronoobs.com/eng_robotica_tut5_1.php).
 
 ## 📷 Project Preview
-
+![Final component lists ](Components.jpg)
 ![Drone Body](Drone_body.jpg)
 
-![ Final component lists ](Components .jpg)
+
 ![RC transmitter_first prototype ](Transmitter_Prototype1.jpg)
 
 ![RC final_transmitter font picture](Transmitter_final_prototype_front.jpg)
@@ -54,7 +54,7 @@ A fully functional quadcopter drone built from scratch using Arduino Nano, NRF24
 ## 📐 Wiring & Schematics
 
  ![RC transmitter_ Schematic ](rc_transmitter.png)
-![Drone_ Schematic ](full_flight_controller_PPM.png)
+![Drone_ Schematic ](full_flight_controller.png)
 
 ---
 
